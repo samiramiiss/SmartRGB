@@ -11,3 +11,8 @@
 # MQTT & broker
 # Tcp/ip protocol
 # uln2003 is used for driving RGBs with 12 voltage
+# N channel transistors are used to supply the required current of RGBs
+# 12 volt adapter for power supply
+# esp32 wroom dev module
+# Wifi protocol 
+# both staion and access point mode used
